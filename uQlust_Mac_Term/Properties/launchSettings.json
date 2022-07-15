@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "uQlust_Mac_Term": {
+      "commandName": "Project",
+      "commandLineArgs": "-mLSH-c5 -c cath4.2_mLSHKK -s zzz -d C:\\\\Projects\\\\bioinfo\\\\cath4.2-new"
+    }
+  }
+}
